@@ -6,7 +6,7 @@
 Summary:	X509 reader and writer
 Name:		ghc-%{pkgname}
 Version:	1.7.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/x509
